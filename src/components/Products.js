@@ -5,7 +5,7 @@ export default class Products extends Component {
         const productsItems = this.props.products.map(product =>(
             <div className="col-md-4">
             <div className="thumbnail text-center">
-            <a href={`/${product.id}`} onClick={this.props.handledAddToCart}>
+            <a href={`/${product.id}`} onClick={this.props.handleAddToCard}>
                     <img src={`/products/${product.sku}_1.jpg`} alt={product.title} />
                     <p>
                         {product.title}
