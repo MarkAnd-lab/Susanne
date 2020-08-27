@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "title": "tavla1",
+      "price": 10000,
+      "id": 1,
+      "sku": 12345,
+      "description": "txt1",
+      "isFreeShipping": true
+    },
+    {
+      "title": "tavla2",
+      "price": 20000,
+      "id": 2,
+      "sku": 123456,
+      "description": "txt2",
+      "isFreeShipping": true
+    },
+    {
+      "title": "tavla3",
+      "price": 30000,
+      "id": 3,
+      "sku": 1234567,
+      "description": "txt3",
+      "isFreeShipping": true
+    }
+  ]
+}

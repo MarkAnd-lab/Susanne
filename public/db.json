@@ -5,7 +5,7 @@
             "price": 10000,
             "id": 1,
             "sku":12345,
-            "description":"",
+            "description":"txt1",
             "isFreeShipping": true
         },
         {
@@ -13,7 +13,7 @@
             "price": 20000,
             "id": 2,
             "sku":123456,
-            "description":"",
+            "description":"txt2",
             "isFreeShipping": true
         },
         {
@@ -22,7 +22,7 @@
           "price": 30000,
           "id": 3,
           "sku":1234567,
-          "description":"",
+          "description":"txt3",
           "isFreeShipping": true
         }
             
