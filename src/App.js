@@ -13,7 +13,7 @@ class App extends Component {
       products: data,
       filteredProducts: data
 
-    }))
+    }));
   }
   render(){
   return (
