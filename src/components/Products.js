@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import util from "../util";
 
+
 export default class Products extends Component {
     render() {
         const productsItems = this.props.products.map(product =>(
