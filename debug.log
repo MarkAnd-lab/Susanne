@@ -1,0 +1,2 @@
+[0925/103519.853:ERROR:process_info.cc(359)] UncheckedAllocate
+[0925/103524.330:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: {För liten kvot} Det finns inte tillräckligt med virtuellt minne eller växlingsfilskvot för att slutföra den angivna åtgärden. (0xc0000017)
